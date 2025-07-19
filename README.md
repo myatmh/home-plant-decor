@@ -25,11 +25,16 @@
 
 ## 📁 Folder Structure
 Home-Plant-Decor/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js/
+
 ├── assets/
 │ └── images/
+
 └── README.md
 
 ## 🚀 Getting Started
