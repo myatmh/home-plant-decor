@@ -23,19 +23,6 @@
 - [Swiper.js](https://swiperjs.com/)
 - [ScrollReveal](https://scrollrevealjs.org/)
 
-## 📁 Folder Structure
-Home-Plant-Decor/
-
-├── index.html
-
-├── style.css
-
-├── script.js/
-
-├── assets/
-│ └── images/
-
-└── README.md
 
 ## 🚀 Getting Started
 
@@ -45,7 +32,8 @@ Clone the repository and open `index.html` in your browser:
 git clone https://github.com/yourusername/home-plant-decor.git
 cd home-plant-decor
 open index.html
+```
 
 ##Author
 
-Myat Min Htwe
+MYAT MIN HTWE
